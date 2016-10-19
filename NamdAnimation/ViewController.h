@@ -9,6 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+{
+    CGFloat heightOfScreen;
+    CGFloat widthOfScreen;
+}
+
 @property (strong, nonatomic) IBOutlet UIImageView *ball1;
 
 - (IBAction)ActionZoomIn:(id)sender;

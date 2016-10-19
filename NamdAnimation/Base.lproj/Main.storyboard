@@ -33,7 +33,7 @@
                                                 </constraints>
                                                 <state key="normal" image="north_west"/>
                                                 <connections>
-                                                    <action selector="ActionDirection:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hGx-5i-ONb"/>
+                                                    <action selector="ActionDirection:" destination="BYZ-38-t0r" eventType="touchUpInside" id="sy4-AF-aIa"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" tag="101" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1Tp-OX-XmX">
@@ -47,7 +47,7 @@
                                                 <rect key="frame" x="100" y="0.0" width="50" height="50"/>
                                                 <state key="normal" image="north_east"/>
                                                 <connections>
-                                                    <action selector="ActionDirection:" destination="BYZ-38-t0r" eventType="touchUpInside" id="RLH-nA-RgV"/>
+                                                    <action selector="ActionDirection:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dOO-RY-alx"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -65,7 +65,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
                                                 <state key="normal" image="left"/>
                                                 <connections>
-                                                    <action selector="ActionDirection:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CLR-MB-VKr"/>
+                                                    <action selector="ActionDirection:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vhJ-6D-GRi"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4OI-6B-hYJ">
@@ -75,7 +75,7 @@
                                                 <rect key="frame" x="100" y="0.0" width="50" height="50"/>
                                                 <state key="normal" image="right"/>
                                                 <connections>
-                                                    <action selector="ActionDirection:" destination="BYZ-38-t0r" eventType="touchUpInside" id="G0u-a5-xF3"/>
+                                                    <action selector="ActionDirection:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vDh-x3-wV0"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -87,7 +87,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
                                                 <state key="normal" image="south_west"/>
                                                 <connections>
-                                                    <action selector="ActionDirection:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Sc6-el-sga"/>
+                                                    <action selector="ActionDirection:" destination="BYZ-38-t0r" eventType="touchUpInside" id="aA7-4j-mRH"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" tag="106" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9Su-TI-ksF">
@@ -101,7 +101,7 @@
                                                 <rect key="frame" x="100" y="0.0" width="50" height="50"/>
                                                 <state key="normal" image="south_east"/>
                                                 <connections>
-                                                    <action selector="ActionDirection:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qgr-l2-XRQ"/>
+                                                    <action selector="ActionDirection:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bil-g1-GGf"/>
                                                 </connections>
                                             </button>
                                         </subviews>
